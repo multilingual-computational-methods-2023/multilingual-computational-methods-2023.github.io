@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://multilingual-computational-methods-2023.github.io/sitemap.xml
+
+# Good luck, have fun!
