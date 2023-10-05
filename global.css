@@ -37,11 +37,10 @@
     justify-content: left;
     text-align: left;
     align-items: left;
-    margin: 1em;
-    padding: 1em;
-    background-color: #dddddd;
-    /* border: 1px solid #222222; */
-    /* border-radius: 5px; */
+    margin: 0.2em;
+    padding: 0.1em;
+    /* background-color: #dddddd; */
+
 }
 
 .article-blurb {
